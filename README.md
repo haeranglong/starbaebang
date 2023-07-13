@@ -1,9 +1,9 @@
 # starbaebang
-<!DOCTYPE html>
-<html>
-<head>
-<title>2023 의류 브랜드 컬렉션</title>
-<style>
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>2023 의류 브랜드 컬렉션</title>
+    <style>
     /* CSS 스타일을 여기에 추가하세요 */
     @font-face {
     font-family: 'SF_HambakSnow';
@@ -89,8 +89,8 @@
         margin-top: 20px;
         max-width: 100%;
     }
-</style>
-<script>
+    </style>
+    <script>
     function showBrand(brandName) {
         // 모든 브랜드 섹션을 숨김
         var brandSections = document.getElementsByClassName("brand-section");
